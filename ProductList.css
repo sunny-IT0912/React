@@ -1,0 +1,13 @@
+#Category
+{
+    display: flex;
+    flex-grow: 1;
+    padding:3px;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+    #Category button:hover{
+        background: red;
+    }
